@@ -13,3 +13,9 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+### Step 3 - get the data
+
+```bash
+wget https://raw.githubusercontent.com/RoshanKshirsagar/Student_Exam_Performance_endtoend/main/stud.csv
+```
